@@ -1,7 +1,6 @@
 
 
-This is the start of my book
-Page 1 will help use get stared
-
-Java is cool
+This is the start of my book.
+Page 1 will help use get stared.
+Java is cool!
 
