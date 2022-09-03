@@ -1,0 +1,59 @@
+01/25/2022
+
+- All notes will be shared in the #gurhan_notes channel
+
+-Front-end,UI (User-interface), GUI (Graphic User-Interface)
+    -Everthing we see and interact with on the page
+
+    -Backend:
+    -Everything else other than the front-end is "backend"
+    -Backend is what constructs the data and delivers it back to users
+    -Backend does the calculations, creates the business logic, and
+    makes sure user are displayed with correct information
+
+-HTML:
+    -HyperText Markup Language
+    -It is a mark up language, not programming language.
+    -HTML does not have any programming logic such as variables,
+    loops, or conditions.
+    -HTML is used to display content in structured manner.
+
+-CSS:
+    -Cascading Style Sheets
+    -It is used to style EXISTING HTML code
+    -CSS can NOT be used alone
+    -You cannot create elements using CCS.
+    -You can only give style to existing elements.
+
+-JavaScript:
+    -JS is a scripting  language.
+    -JS is used to give actual dynamism, functionality to the web
+    page.
+
+    -car & carpet
+    -apple & pineapple
+    -egg & eggplant
+    -java & javascript
+
+- What is web element?
+    - Everything we see on a webpage is a web element
+    - Such as: buttons, links, paragraph, header, images
+
+- What is a TAG?
+    - Tags act like containers.
+    - Depending on which tag we choose, we can select the way the
+    content will be displayed for the user.
+
+    -img
+    -p
+
+How many different types of tags we have?
+    -We have 2 types of tags.
+
+    #1-Paired tag:
+      -Paired tags have 2 parts
+      -<opening tag> and </closing tag>
+
+    #2- Un-paired tag
+    self-closing tags.
+    </selfClosing>
