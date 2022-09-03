@@ -47,6 +47,8 @@ public class TryCatchBlocks {
 
         System.out.println("Test3 started");
 
+        System.out.println("------------------------------------------------------");
+
         try {
             System.out.println("Cydeo".substring(2, 0));
 
@@ -55,6 +57,10 @@ public class TryCatchBlocks {
             e.printStackTrace();
         }
         System.out.println("Test4 started");
+
+        System.out.println("------------------------------------------------------");
+
+
 
     }
 }
