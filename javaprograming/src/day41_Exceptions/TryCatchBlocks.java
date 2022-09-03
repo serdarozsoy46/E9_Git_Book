@@ -1,5 +1,8 @@
 package day41_Exceptions;
 
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+
 public class TryCatchBlocks {
 
     public static void main(String[] args) {
@@ -38,7 +41,7 @@ public class TryCatchBlocks {
             // e.printStackTrace() its give all exception
             //System.out.println(e.getMessage());  Index 200 out of bounds for length 5
 
-            System.out.println("Catch Block");
+           System.out.println("Catch Block");
 
             System.out.println("Run time exception was occurred");
 
@@ -59,6 +62,25 @@ public class TryCatchBlocks {
         System.out.println("Test4 started");
 
         System.out.println("------------------------------------------------------");
+
+        System.out.println("Hello");
+
+        try {
+            Thread.sleep(3000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+
+        System.out.println("Cydeo");
+
+        System.out.println("------------------------------------------------------");
+
+        try {
+            FileInputStream file = new FileInputStream("File path");
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
+
 
 
 
