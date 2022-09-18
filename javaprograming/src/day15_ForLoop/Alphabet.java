@@ -40,9 +40,6 @@ public class Alphabet {
             System.out.print(i+" ");
         }
 
-        // char ch =  'ψ';
-
-
 
 
 
