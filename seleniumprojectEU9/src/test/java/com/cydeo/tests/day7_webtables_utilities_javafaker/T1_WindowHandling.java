@@ -1,5 +1,6 @@
 package com.cydeo.tests.day7_webtables_utilities_javafaker;
 
+
 import com.cydeo.utilities.BrowserUtils;
 import com.cydeo.utilities.WebDriverFactory;
 import org.openqa.selenium.JavascriptExecutor;
@@ -10,6 +11,7 @@ import org.testng.annotations.Test;
 import java.util.concurrent.TimeUnit;
 
 public class T1_WindowHandling {
+
 
     public WebDriver driver;
 
@@ -36,5 +38,4 @@ public class T1_WindowHandling {
         BrowserUtils.switchWindowAndVerify(driver, "etsy", "Etsy");
     }
 }
-
 
