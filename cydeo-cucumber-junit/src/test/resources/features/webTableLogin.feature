@@ -8,8 +8,7 @@ Feature: User should be able t Scenario: Positive login scenario
     When user enters username "Test"
     And user enters password "Tester"
     And user clicks to login button
-    Then user should see url contains orders
-
+    Then user should see url contains or
 
   Scenario: Positive login scenario
 

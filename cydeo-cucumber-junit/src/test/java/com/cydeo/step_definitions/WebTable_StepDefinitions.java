@@ -31,10 +31,7 @@ public class WebTable_StepDefinitions {
     public void user_clicks_to_login_button() {
        webTableLoginPage.loginButton.click();
     }
-    @Then("user should see url contains orders")
-    public void user_should_see_url_contains_orders() {
 
-    }
 
     @When("user enters username {string} password {string} and logins")
     public void userEntersUsernamePasswordAndLogins(String username, String pw) {
@@ -50,6 +47,14 @@ public class WebTable_StepDefinitions {
          //we can call our login utility method and pass value from map
         webTableLoginPage.login(credentials.get("username"), credentials.get("password"));
 
+    }
+
+    @Then("user should see url contains or")
+    public void userShouldSeeUrlContainsOr() {
+    }
+
+    @Then("user should see url contains orders")
+    public void userShouldSeeUrlContainsOrders() {
     }
 }
 
