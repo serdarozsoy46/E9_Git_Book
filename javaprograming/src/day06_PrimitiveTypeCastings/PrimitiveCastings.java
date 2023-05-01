@@ -47,13 +47,10 @@ public class PrimitiveCastings {
         float f1 = 30.5F;
         long l1 = (long) f1;
 
+
         System.out.println(f1 + " : "+l1);
 
-
-
-
-
-
+      
 
 
 

@@ -2,5 +2,18 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AppiumAutomationEU9" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EU9-BookIT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EU9-Library" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EU9-RestAssured" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EU9-Vytrack-DB" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EU9_DataBase_Review" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EU9_JDBC_REVIEW" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EU9_Karate_Framework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EU9_Serenity" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RestApiPetProjectJunit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RestApiProjectExercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SeleniumProjectB27" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TRY_CLOUD_CYDEO_AUTOMATION" vcs="Git" />
   </component>
 </project>
